@@ -2,3 +2,6 @@
 STAT 545 Demo
 
 Maggie - a mad scientist!!
+
+Hey , its Nicole! 
+
